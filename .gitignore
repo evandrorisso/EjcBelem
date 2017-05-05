@@ -1,3 +1,6 @@
+/vendor/
+ftpsysnc.settings
+/Componentes/
 /node_modules
 /Model/DB.php
 /Model/IDAO.php
