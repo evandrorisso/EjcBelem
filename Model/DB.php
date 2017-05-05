@@ -4,7 +4,7 @@
 		private $conn;
 	    
 	    public function getConnection(){
-	        $this->conn = new mysqli("mysql.hostinger.com.br", "u384895831_quent", "123456", "u384895831_quent");
+	        $this->conn = new mysqli("**", "**", "**", "**");
 	    }
 	    
 	    public function execReader($SQL){
