@@ -1,0 +1,26 @@
+{
+  "name": "ejcbelem",
+  "description": "Site do Ejc Belem para coordenar a programação da igreja",
+  "main": "index.js",
+  "authors": [
+    "Evandro Risso"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ejc",
+    "ejcbelem",
+    "iasd"
+  ],
+  "homepage": "https://github.com/evandrorisso/EjcBelem",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Componentes",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
